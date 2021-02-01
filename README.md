@@ -21,12 +21,20 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   
   ## Summary Statistics on Suspension Coils
   
-   The statistical summary table for total data : 
+  Base on the statistical summary table mean and median are around 1500 for PSI. Varian and sd are 62.3 and 7.89 respectfully. The table is shown as below :
+  
+  The statistical summary table for total data : 
   ![alt text][Image1]
   
   [Image1]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_total.PNG "tatistical summary table for total"
   
+  When looking at individually, lot 3 has the highest varian and sd of 170 and 13 respectfully with the table as shown below :
+  
   The statistical summary table for each lot data : 
   ![alt text][Image2]
   
-  [Image2]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_total.PNG "tatistical summary table for each lot"
+  [Image2]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_each_lot.PNG "tatistical summary table for each lot"
+  
+  ## T-Tests on Suspension Coils
+  
+  
