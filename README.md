@@ -15,3 +15,7 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   Looking at these results we see that there are ~70% of all mile per gallon predictions will be correct when using this linear model. But if we are looking into details about   the contribution of each variable to the multiple linear regression model vehicle_length, and ground_clearance have a significant impact on mile per galon all other variables
   Intercept is also statistically significant, it means there are other variables and factors that contribute to the variation in mile per galon that have not been included       in our model. These variables may or may not be within our dataset and may still need to be collected or observed.
   
+  There is significant linear relationship between variables with Multiple R-squared:  0.7149 .In addition, the p-value of our linear regression analysis is 5.35e-11 which is     much smaller than our assumed significance level of 0.05% therefor the slope of the linear model does not consider to be zero.
+  
+  Overall the model can be use to predict mile per gallon because the overall adjusted R-squared:  0.6825
+  
