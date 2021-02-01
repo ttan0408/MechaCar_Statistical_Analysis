@@ -63,7 +63,8 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
      2) Perform two sample t-test to see if the gathered data set/population is significant enough between the two population 
      3) Once p-test comparision to competition is different enough, we then can use linear regression on numerical variable data to study the relationship between other            variable to highway fuel efficiency. Then we can know how to improve our products in the future.
      
-     
   
+  R-script is list below :
   
+  https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R
   
