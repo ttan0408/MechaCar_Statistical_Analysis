@@ -19,3 +19,5 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   
   Overall the model can be use to predict mile per gallon because the overall adjusted R-squared:  0.6825
   
+  ## Summary Statistics on Suspension Coils
+  
