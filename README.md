@@ -42,7 +42,7 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   
   ![alt text][Image3]
   
-  [Image3]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_each_lot.PNG "Lot1 t-test"
+  [Image3]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/Manufacturing_Lot_1_Statistical.PNG "Lot1 t-test"
   
   Lot2 t-test :
   
