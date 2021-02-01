@@ -38,19 +38,19 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   ## T-Tests on Suspension Coils
   On the suspension coils analysis we first perform t-test to the overall data set to see if the data any far different from mean 1500 PSI. The result turn out that p-value     equal to 0.06028, this mean there is no statistical difference between the observed sample mean to 1500 PSI mean. Since there are 3 different samples inside the opulation     (lot1,lot2,lot3) so we perform t-test for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
   
-  Lot1 t-test :
+  Lot1 t-test : There is not significant different between lot1 mean from the population mean of 1,500 pounds per square inch becasue p value = 1
   
   ![alt text][Image3]
   
   [Image3]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/Manufacturing_Lot_1_Statistical.PNG "Lot1 t-test"
   
-  Lot2 t-test :
+  Lot2 t-test : There is not significant different between lot2 mean from the population mean of 1,500 pounds per square inch becasue p value = 0.6072
   
   ![alt text][Image4]
   
   [Image4]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/Manufacturing_Lot_2_Statistical.PNG "Lot2 t-test"
   
-  Lot3 t-test :
+  Lot3 t-test : There is significant different between lot3 mean from the population mean of 1,500 pounds per square inch becasue p value = 0.04168
   
   ![alt text][Image5]
   
