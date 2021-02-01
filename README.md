@@ -21,3 +21,7 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
   
   ## Summary Statistics on Suspension Coils
   
+   The statistical summary table for total data : 
+  ![alt text][Image1]
+  
+  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20for%20Users.PNG "tatistical summary table for total"
