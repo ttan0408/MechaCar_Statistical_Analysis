@@ -24,4 +24,9 @@ In this analysis, we run the linear regression between mpg vs (vehicle_length, v
    The statistical summary table for total data : 
   ![alt text][Image1]
   
-  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20for%20Users.PNG "tatistical summary table for total"
+  [Image1]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_total.PNG "tatistical summary table for total"
+  
+  The statistical summary table for each lot data : 
+  ![alt text][Image2]
+  
+  [Image2]: https://github.com/ttan0408/MechaCar_Statistical_Analysis/blob/main/summarize_total.PNG "tatistical summary table for each lot"
